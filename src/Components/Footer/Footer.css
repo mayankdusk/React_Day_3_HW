@@ -1,0 +1,13 @@
+#main_btn{
+    margin: 10px;
+    background-color: grey;
+    width: 100vw;
+    color: #000;
+}
+
+#sponser {
+    color: #000;
+    font-size: 20px;
+    opacity: 0.6;
+    text-align: center;
+}
